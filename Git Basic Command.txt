@@ -1,0 +1,32 @@
+
+1 . Git Command to initilize Git Repository 
+
+Git init 
+
+2.  Git Command to add all file in Git Repository 
+
+Git add *
+
+3.  Git Command to add global user for Git Authentication This is only one time require for git commit 
+
+Git commit -m " Git commit message" 
+
+or
+
+Git commit -message " Git commit message" 
+
+4. Git Command to add remote repository 
+
+git remote add origin  remote respository URL 
+
+Example :- git remote add origin  https://github.com/johnykumarsaini/Git_Basic_Comand
+
+5. Git Command to pull or fetch from remote repository 
+
+git pull "Remote name " "Branch name"
+
+Example :- git pull origin main
+
+6. Git Command to push to  remote repository 
+
+ git push origin main
